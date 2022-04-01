@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Asignaturas</string>
+
+    <string name="stxtBienvenido">Bienvenido</string>
+    <string name="sbtnEstadisticas">Estadisticas</string>
+    <string name="sbtnRegistro">Registro</string>
+    <string name="sbtnAyuda">Ayuda</string>
+
+    <string name="stxtAyuda">Ayuda</string>
+    <string name="smAyuda">La aplicacion Asignaturas tiene como intencion llevar a cabo el registro de
+        estudiantes y el estado actual en cuanto a sus resultados por asignatura,esto obtenido a traves de
+        un registro de asignaturas y notas, tomando tambien los datos del estudiante, con validaciones
+        en los campos impidiendo valores vacios y notas mayores a 5 e inferiores a 0.</string>
+
+    <string name="stxtEstadisticas">ESTADISTICAS</string>
+    <string name="stxtEprocesados">Estudiantes registrados :</string>
+    <string name="stxtEganaron">Estudiantes aprobados :</string>
+    <string name="stxtEperdieron">Estudiantes reprobados :</string>
+    <string name="stxtEpuedenRecuperar">Estudiantes para habilitacion :</string>
+
+    <string name="stxtRegistro">REGISTRO</string>
+    <string name="sDestudiante">Datos Estudiante</string>
+
+    <string name="sbtnEnviar">Enviar</string>
+    <string name="sbtnVolver">Regresar</string>
+</resources>
